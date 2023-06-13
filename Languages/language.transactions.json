@@ -1,0 +1,301 @@
+{
+  "EN": {
+  "DepositAERO":{
+    "successMessage": "AERO succesfuly deposited",
+    "processingMessage": "Processing AERO deposit",
+    "errorMessage": "AERO deposit has failed"
+  },
+  "WithdrawAERO":{
+    "successMessage": "AERO succesfuly withdrawed",
+    "processingMessage": "Processing AERO withdraw",
+    "errorMessage": "AERO withdraw has failed"
+  },
+  "ClaimAERO":{
+    "successMessage": "AERO claimed succesfuly",
+    "processingMessage": "Processing claim",
+    "errorMessage": "AERO claim has failed"
+  },
+  "ReinvestAERO":{
+    "successMessage": "AERO reinvested succesfuly",
+    "processingMessage": "Processing reinvest",
+    "errorMessage": "AERO reinvest has failed"
+  },
+  "DepositAVIA":{
+    "successMessage": "Aviator landed succesfully",
+    "processingMessage": "Processing landing",
+    "errorMessage": "Aviator crashed down"
+  },
+  "WithdrawAVIA":{
+    "successMessage": "Aviator departured",
+    "processingMessage": "Processing departuring",
+    "errorMessage": "Aviator Departure aborted"
+  },
+  "sendESDT":{
+    "successMessage": "Aviator departured",
+    "processingMessage": "Processing departuring",
+    "errorMessage": "Aviator Departure aborted"
+  },
+  "storeSignature":{
+    "successMessage": "Storing Signature",
+    "processingMessage": "Processing signature",
+    "errorMessage": "Storing Signature has failed"
+  }
+  },
+  "RO": {
+    "DepositAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "WithdrawAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "ClaimAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "ReinvestAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "DepositAVIA":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "WithdrawAVIA":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "sendESDT":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "storeSignature":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    }
+  }
+  },
+  "FR": {
+    "DepositAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "WithdrawAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "ClaimAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "ReinvestAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "DepositAVIA":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "WithdrawAVIA":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "sendESDT":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "storeSignature":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    }
+  }
+  },
+  "ES": {
+    "DepositAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "WithdrawAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "ClaimAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "ReinvestAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "DepositAVIA":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "WithdrawAVIA":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "sendESDT":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "storeSignature":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    }
+  }
+  },
+  "IT": {
+    "DepositAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "WithdrawAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "ClaimAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "ReinvestAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "DepositAVIA":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "WithdrawAVIA":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "sendESDT":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "storeSignature":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    }
+  }
+},
+  "DE": {
+    "DepositAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "WithdrawAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "ClaimAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "ReinvestAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "DepositAVIA":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "WithdrawAVIA":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "sendESDT":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "storeSignature":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    }
+  }
+  },
+  "TR": {
+    "DepositAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "WithdrawAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "ClaimAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "ReinvestAERO":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "DepositAVIA":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "WithdrawAVIA":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "sendESDT":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    },
+    "storeSignature":{
+      "successMessage": "",
+      "processingMessage": "",
+      "errorMessage": ""
+    }
+  }
+}
