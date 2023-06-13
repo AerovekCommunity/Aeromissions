@@ -15,7 +15,7 @@ Through decentralized decision-making, we enable a more transparent, resilient, 
 Contributing to Aeromissions is easy! Here are a few steps to get you started:
 
 1. Navigate to PeerMe DAO to request application, every aeromission will have its own link to the specific quest ex. [Aeromission](https://peerme.io/quests/WyEB5wvJm48D) 
-![Aeromissions](image/logo.png)
+![Aeromissions](image/aeromissions.png)
 3. Fork this repository to your own GitHub account.
 4. Explore the existing issues and projects to find an area where you can contribute.
 5. If you have an idea for a new project or issue, please create a new one, providing as much detail as possible.
