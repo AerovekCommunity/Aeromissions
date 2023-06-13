@@ -1,0 +1,65 @@
+{
+  "EN": {
+    "learn": "Learn",
+    "transaction": "Transaction",
+    "preview": "Preview",
+    "send": "Send",
+    "search": "Search tokens",
+    "not_found": "No tokens found",
+    "not_matching": "No tokens matching"
+  },
+  "RO": {
+    "learn": "",
+    "transaction": "",
+    "preview": "",
+    "send": "",
+    "search": "",
+    "not_found": "",
+    "not_matching": ""
+  },
+  "FR": {
+    "learn": "",
+    "transaction": "",
+    "preview": "",
+    "send": "",
+    "search": "",
+    "not_found": "",
+    "not_matching": ""
+  },
+  "ES": {
+    "learn": "",
+    "transaction": "",
+    "preview": "",
+    "send": "",
+    "search": "",
+    "not_found": "",
+    "not_matching": ""
+  },
+  "IT": {
+    "learn": "",
+    "transaction": "",
+    "preview": "",
+    "send": "",
+    "search": "",
+    "not_found": "",
+    "not_matching": ""
+  },
+  "DE": {
+    "learn": "",
+    "transaction": "",
+    "preview": "",
+    "send": "",
+    "search": "",
+    "not_found": "",
+    "not_matching": ""
+  },
+  "TR": {
+    "learn": "",
+    "transaction": "",
+    "preview": "",
+    "send": "",
+    "search": "",
+    "not_found": "",
+    "not_matching": ""
+  }
+}
