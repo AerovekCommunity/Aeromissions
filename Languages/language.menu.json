@@ -1,1 +1,78 @@
-
+{
+  "EN": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "wallet": "Wallet",
+    "profile": "Profile",
+    "pilotlogs": "Pilot Logs",
+    "hangar": "Hangar",
+    "menu": "Menu",
+    "lounge": "Lounge"
+  },
+  "RO": {
+    "home": "",
+    "dashboard": "",
+    "wallet": "",
+    "profile": "",
+    "services": "",
+    "pilotlogs": "",
+    "hangar": "",
+    "menu": "",
+    "lounge": ""
+  },
+  "FR": {
+    "home": "",
+    "dashboard": "",
+    "wallet": "",
+    "profile": "",
+    "services": "",
+    "pilotlogs": "",
+    "hangar": "",
+    "menu": "",
+    "lounge": ""
+  },
+  "ES": {
+    "home": "",
+    "dashboard": "",
+    "wallet": "",
+    "profile": "",
+    "services": "",
+    "pilotlogs": "",
+    "hangar": "",
+    "menu": "",
+    "lounge": ""
+  },
+  "IT": {
+    "home": "",
+    "dashboard": "",
+    "wallet": "",
+    "profile": "",
+    "services": "",
+    "pilotlogs": "",
+    "hangar": "",
+    "menu": "",
+    "lounge": ""
+  },
+  "DE": {
+    "home": "",
+    "dashboard": "",
+    "wallet": "",
+    "profile": "",
+    "services": "",
+    "pilotlogs": "",
+    "hangar": "",
+    "menu": "",
+    "lounge": ""
+  },
+  "TR": {
+    "home": "",
+    "dashboard": "",
+    "wallet": "",
+    "profile": "",
+    "services": "",
+    "pilotlogs": "",
+    "hangar": "",
+    "menu": "",
+    "lounge": ""
+  }
+}
