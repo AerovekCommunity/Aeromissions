@@ -1,6 +1,6 @@
 import React from "react";
 import { Document, Page, Text, View, StyleSheet, PDFViewer, PDFDownloadLink } from "@react-pdf/renderer";
-import { EASAFlightRecord } from "./interface";
+import { EASAFlightRecord } from "./easa.interface";
 
 const EASAPDF = () => {
   return (
