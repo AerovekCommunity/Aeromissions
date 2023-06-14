@@ -2,6 +2,12 @@ import React from "react";
 import { Document, Page, Text, View, StyleSheet, PDFViewer, PDFDownloadLink } from "@react-pdf/renderer";
 import { EASAFlightRecord } from "./easa.interface";
 
+const styles = StyleSheet.create({
+  table: {
+    width: "100%",
+  }
+});
+
 const EASAPDF = () => {
   return (
     <React.Fragment>
