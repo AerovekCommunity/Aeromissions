@@ -3,14 +3,14 @@ import { Document, Page, Text, View, StyleSheet, PDFViewer, PDFDownloadLink } fr
 
 const EASAPDF = () => {
   return (
-    <div>
+    <React.Fragment>
       <PDFDownloadLink document={<TableDocument />} fileName="easa.pdf">
         {({ blob, url, loading, error }) => (loading ? "Loading document..." : "Download now!")}
       </PDFDownloadLink>
       <PDFViewer>
         <TableDocument />
       </PDFViewer>
-    </div>
+    </React.Fragment>
   );
 };
 
