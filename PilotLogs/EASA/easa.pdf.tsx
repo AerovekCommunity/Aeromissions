@@ -18,7 +18,7 @@ const TableDocument = () => (
   <Document>
     <Page size="A4" orientation="landscape">
       <View style={styles.table}>
-        //Create PDF Document
+        //Create PDF EASA table document
       </View>
     </Page>
   </Document>
